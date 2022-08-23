@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumarkannaujiya&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumarkannaujiya" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajkumarkannaujiya" alt="rajkumarkannaujiya" /></a> </p>
+
 
 <p align="left"> <a href="https://twitter.com/rajkumar43211" target="blank"><img src="https://img.shields.io/twitter/follow/rajkumar43211?logo=twitter&style=for-the-badge" alt="rajkumar43211" /></a> </p>
 
@@ -16,6 +16,7 @@
 - 💬 Ask me about **React, JavaScript, CSS, HTML5, NodeJS , Bootstrap, Networking , Web-security.**
 
 - 📫 How to reach me **rajkumarkannaujiya79@gmail.com**
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajkumarkannaujiya" alt="rajkumarkannaujiya" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
