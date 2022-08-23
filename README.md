@@ -3,6 +3,8 @@
 <h3 align="center">I am a self-motivated Full-stack Web developer 🤓 who loves to work in a challenging environment ✨. I love to face new problems and come up with a solution from out of the box 💥.</h3>
 <img align="right" alt="Coding" width="400" src="https://github.com/RajkumarKannaujiya/images/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966.gif?raw=true">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumarkannaujiya&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumarkannaujiya" /> </p>
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajkumarkannaujiya" alt="rajkumarkannaujiya" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/rajkumar43211" target="blank"><img src="https://img.shields.io/twitter/follow/rajkumar43211?logo=twitter&style=for-the-badge" alt="rajkumar43211" /></a> </p>
