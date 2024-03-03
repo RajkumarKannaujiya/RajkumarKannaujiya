@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **React, JavaScript, CSS, HTML5, NodeJS , Bootstrap, Networking , Web-security.**
 
-- 📫 How to reach me **rajkumarkannaujiya79@gmail.com**
+- 📫 How to reach me **rajkumar.kannojiaa@gmail.com**
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rajkumarkannaujiya" alt="rajkumarkannaujiya" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
