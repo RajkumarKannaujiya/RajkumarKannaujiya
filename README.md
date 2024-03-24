@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/RajkumarKannaujiya/images/blob/main/68747470733a2f2f63686b736b696c6c732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032302f30342f504e432d416e696d617465642d42616e6e6572732e676966.gif?raw=true)
 <h1 align="center">Hi 👋, I'm Rajkumar Kannaujiya</h1>
 <h3 align="center">I am a self-motivated Full-stack Web developer 🤓 who loves to work in a challenging environment ✨. I love to face new problems and come up with a solution from out of the box 💥.</h3>
-<img align="right" alt="Coding" width="400" src="https://github.com/RajkumarKannaujiya/images/blob/main/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966.gif?raw=true">
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajkumarkannaujiya&label=Profile%20views&color=0e75b6&style=flat" alt="rajkumarkannaujiya" /> </p>
 
