@@ -1,99 +1,14 @@
 <div align="center">
 
-<img src="./assets/neural-signal-hero.gif" width="100%" alt="Animated neural interface introducing Rajkumar Kannaujiya and his applied AI focus" />
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RajkumarKannaujiya/RajkumarKannaujiya/main/dark_mode.svg" />
+  <img src="https://raw.githubusercontent.com/RajkumarKannaujiya/RajkumarKannaujiya/main/light_mode.svg" width="100%" alt="Rajkumar Kannaujiya's theme-aware terminal profile: IIT Madras education, AI skills, contact links, and live GitHub statistics" />
+</picture>
 
 <p>
   <a href="https://www.linkedin.com/in/rajkumarkannaujiya"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:rajkumar.kannojiaa@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=flat&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/RajkumarKannaujiya?tab=repositories"><img src="https://img.shields.io/badge/GitHub-Repositories-181717?style=flat&logo=github&logoColor=white" alt="GitHub repositories" /></a>
-  <img src="https://komarev.com/ghpvc/?username=rajkumarkannaujiya&label=PROFILE%20VIEWS&color=0ea5e9&style=flat" alt="GitHub profile views" />
 </p>
-
-<h3>Applied AI · Machine Learning · Data Science</h3>
-<p><sub>Surat, Gujarat, India &nbsp;·&nbsp; B.S. Data Science &amp; Applications at IIT Madras</sub></p>
 
 </div>
-
-<p align="center"><img src="./assets/signal-dashboard.gif" width="100%" alt="Animated profile dashboard highlighting IIT Madras, artificial intelligence, machine learning, data science, and model delivery" /></p>
-
-## 👋 Profile
-
-I’m Rajkumar Kannaujiya, pursuing a **B.S. in Data Science &amp; Applications at IIT Madras**. My focus is applied AI: understanding data, building and evaluating models, and turning useful ideas into practical software.
-
-I’m especially interested in **machine learning, deep learning, generative AI, and language systems**—with a steady emphasis on reliable experiments and clear results.
-
-## 🎓 IIT Madras
-
-<table>
-  <tr>
-    <td width="62%" valign="top"><b>B.S. Data Science &amp; Applications</b><br/><sub>IIT Madras · 2024–2026</sub></td>
-    <td width="38%" valign="top"><b>Academic foundation</b><br/><sub>Mathematics · Statistics · Computing</sub></td>
-  </tr>
-</table>
-
-## 🧠 AI skill focus
-
-<p align="center"><img src="./assets/focus-constellation.gif" width="100%" alt="Animated AI focus map connecting machine learning, generative AI, data science, and engineering" /></p>
-
-<table>
-  <tr>
-    <td width="50%" valign="top"><b>Machine learning</b><br/><sub>Python · PyTorch · TensorFlow · Scikit-learn · neural networks · computer vision · model evaluation</sub></td>
-    <td width="50%" valign="top"><b>Generative AI &amp; language</b><br/><sub>LLMs · NLP · transformers · retrieval-augmented generation · vector search concepts</sub></td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top"><b>Data science</b><br/><sub>SQL · PostgreSQL · Pandas · NumPy · statistics · exploratory analysis · visualization</sub></td>
-    <td width="50%" valign="top"><b>AI application delivery</b><br/><sub>FastAPI · Flask · Docker · REST APIs · Git · GitHub · Linux</sub></td>
-  </tr>
-</table>
-
-## ⚙️ How I approach AI
-
-I work through a practical loop: define the problem, inspect the data, establish a baseline, evaluate results and trade-offs, then make the solution usable.
-
-<p align="center"><img src="./assets/ai-build-loop.gif" width="100%" alt="Animated AI engineering workflow: frame a problem, inspect data, build a model, evaluate it, and deliver a useful result" /></p>
-
-## 📊 GitHub activity
-
-<p align="center"><sub>Live profile and contribution visualizations generated from GitHub activity.</sub></p>
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <img src="https://github-readme-stats.vercel.app/api?username=rajkumarkannaujiya&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" width="100%" alt="GitHub profile statistics" />
-    </td>
-    <td align="center" width="50%">
-      <img src="https://streak-stats.demolab.com/?user=rajkumarkannaujiya&theme=tokyonight&hide_border=true" width="100%" alt="GitHub contribution streak" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajkumarkannaujiya&bg_color=0d1117&color=67e8f9&line=818cf8&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph" />
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rajkumarkannaujiya&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6&row=1&column=6" width="100%" alt="GitHub profile trophies" />
-</p>
-
-### 🐍 Contribution animation
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/RajkumarKannaujiya/RajkumarKannaujiya/output/github-contribution-grid-snake.gif" width="100%" alt="Animated contribution snake on Rajkumar's GitHub contribution graph" />
-</p>
-
-<p align="center"><sub>Generated by the profile repository’s scheduled GitHub Actions workflow.</sub></p>
-
-<p align="center"><img src="./assets/neon-signal-divider.gif" width="100%" alt="Animated cyan and blue section divider" /></p>
-
-## ✨ Engineering principles
-
-<p align="center"><img src="./assets/engineering-principles.gif" width="100%" alt="Animated AI engineering principles: understand data before assumptions, use evidence before claims, and make outcomes useful" /></p>
-
-Sound baselines, honest evaluation, and clear communication make AI systems more useful.
-
-## 🤝 Connect
-
-Interested in AI, machine learning, or data products? [Connect on LinkedIn](https://www.linkedin.com/in/rajkumarkannaujiya) · [Email me](mailto:rajkumar.kannojiaa@gmail.com) · [Explore my repositories](https://github.com/RajkumarKannaujiya?tab=repositories)
-
-<p align="center"><img src="./assets/neon-signal-footer.gif" width="100%" alt="Animated sign-off: ideas to experiments to intelligent systems" /></p>
