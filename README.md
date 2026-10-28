@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="./assets/neural-signal-hero.gif" width="100%" alt="Rajkumar Kannaujiya profile banner: a polished dark AI and data science interface with animated neural links and a four-stage build path" />
-
-<img src="./assets/neural-signal-console.gif" width="100%" alt="Animated profile console that cycles through Rajkumar's education, AI and data interests, tools, experience, coursework, and engineering workflow" />
+<img src="./assets/neural-signal-hero.gif" width="100%" alt="Animated neural interface introducing Rajkumar Kannaujiya and his applied AI focus" />
 
 <p>
   <a href="https://www.linkedin.com/in/rajkumarkannaujiya"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
@@ -11,56 +9,48 @@
   <img src="https://komarev.com/ghpvc/?username=rajkumarkannaujiya&label=PROFILE%20VIEWS&color=0ea5e9&style=flat" alt="GitHub profile views" />
 </p>
 
-<p><sub>Surat, Gujarat, India &nbsp;·&nbsp; B.S. Data Science &amp; Applications, IIT Madras &nbsp;·&nbsp; AI Engineering + Data Science</sub></p>
+<h3>Applied AI · Machine Learning · Data Science</h3>
+<p><sub>Surat, Gujarat, India &nbsp;·&nbsp; B.S. Data Science &amp; Applications at IIT Madras</sub></p>
 
 </div>
 
-<p align="center"><img src="./assets/signal-dashboard.gif" width="100%" alt="Animated profile dashboard highlighting AI and machine learning, IIT Madras studies, data science practice, and model delivery" /></p>
+<p align="center"><img src="./assets/signal-dashboard.gif" width="100%" alt="Animated profile dashboard highlighting IIT Madras, artificial intelligence, machine learning, data science, and model delivery" /></p>
 
-## 👋 About me
+## 👋 Profile
 
-I’m Rajkumar Kannaujiya, based in Surat, Gujarat. My background combines a B.S. program in Data Science &amp; Applications at IIT Madras (2024–2026) with an earlier Software &amp; Web Development internship at TOPS Technologies.
+I’m Rajkumar Kannaujiya, pursuing a **B.S. in Data Science &amp; Applications at IIT Madras**. My focus is applied AI: understanding data, building and evaluating models, and turning useful ideas into practical software.
 
-I’m building toward applied AI engineering: understanding a problem, working carefully with data, evaluating models, and making useful results accessible through software. My interests include machine learning, deep learning, generative AI, language systems, and data products.
+I’m especially interested in **machine learning, deep learning, generative AI, and language systems**—with a steady emphasis on reliable experiments and clear results.
 
-<p align="center"><img src="./assets/focus-constellation.gif" width="100%" alt="Animated focus constellation connecting machine learning, generative AI, data science, and engineering around applied AI" /></p>
-
-## ⚡ How I build
-
-I like a clear engineering loop: frame the question, inspect the data, establish a baseline, evaluate errors and trade-offs, then deliver the result in a usable form.
-
-<p align="center"><img src="./assets/ai-build-loop.gif" width="100%" alt="Animated AI engineering workflow from framing the problem through data inspection and modeling to evaluation and delivery" /></p>
-
-## 🧰 Technology map
-
-<p align="center"><img src="./assets/tech-arsenal-map.gif" width="100%" alt="Animated technology map grouping tools across machine learning, generative AI, data science, application serving, cloud, and software foundations" /></p>
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,sklearn,mysql,postgres,fastapi,flask,docker,aws,git,github,linux,cpp,java,html,css,js&perline=9&theme=dark" alt="Python, PyTorch, TensorFlow, Scikit-learn, MySQL, PostgreSQL, FastAPI, Flask, Docker, AWS, Git, GitHub, Linux, C++, Java, HTML, CSS, and JavaScript" />
-</p>
+## 🎓 IIT Madras
 
 <table>
   <tr>
-    <td width="33%" valign="top"><b>Machine learning</b><br/><sub>Python · PyTorch · TensorFlow · Scikit-learn · neural networks · computer vision · model evaluation</sub></td>
-    <td width="33%" valign="top"><b>Generative AI &amp; language</b><br/><sub>LLMs · RAG · NLP · transformers · vector search concepts</sub></td>
-    <td width="33%" valign="top"><b>Data science</b><br/><sub>SQL · PostgreSQL · Pandas · NumPy · statistics · probability · Excel · Matplotlib · Seaborn</sub></td>
-  </tr>
-  <tr>
-    <td valign="top"><b>Application engineering</b><br/><sub>FastAPI · Flask · Docker · REST APIs · Git · GitHub · Linux · Bash</sub></td>
-    <td valign="top"><b>Cloud &amp; foundations</b><br/><sub>AWS analytics coursework · C · C++ · Java · HTML · CSS · JavaScript</sub></td>
-    <td valign="top"><b>Ways of working</b><br/><sub>EDA · feature preparation · baseline comparisons · error analysis · clear visualizations</sub></td>
+    <td width="62%" valign="top"><b>B.S. Data Science &amp; Applications</b><br/><sub>IIT Madras · 2024–2026</sub></td>
+    <td width="38%" valign="top"><b>Academic foundation</b><br/><sub>Mathematics · Statistics · Computing</sub></td>
   </tr>
 </table>
 
-<p align="center"><img src="./assets/neon-signal-divider.gif" width="100%" alt="Animated cyan and blue section divider" /></p>
+## 🧠 AI skill focus
 
-## 🧭 Experience &amp; learning
+<p align="center"><img src="./assets/focus-constellation.gif" width="100%" alt="Animated AI focus map connecting machine learning, generative AI, data science, and engineering" /></p>
 
-<p align="center"><img src="./assets/career-learning-timeline.gif" width="100%" alt="Animated career and learning timeline: TOPS Technologies internship, IIT Madras data science program, AWS analytics coursework, and current AI focus" /></p>
+<table>
+  <tr>
+    <td width="50%" valign="top"><b>Machine learning</b><br/><sub>Python · PyTorch · TensorFlow · Scikit-learn · neural networks · computer vision · model evaluation</sub></td>
+    <td width="50%" valign="top"><b>Generative AI &amp; language</b><br/><sub>LLMs · NLP · transformers · retrieval-augmented generation · vector search concepts</sub></td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top"><b>Data science</b><br/><sub>SQL · PostgreSQL · Pandas · NumPy · statistics · exploratory analysis · visualization</sub></td>
+    <td width="50%" valign="top"><b>AI application delivery</b><br/><sub>FastAPI · Flask · Docker · REST APIs · Git · GitHub · Linux</sub></td>
+  </tr>
+</table>
 
-- **TOPS Technologies Pvt. Ltd.** — Software &amp; Web Development Intern, Surat · Nov 2021–Apr 2022
-- **IIT Madras** — B.S. Data Science &amp; Applications · 2024–2026
-- **AWS coursework** — “Getting Started with Data Analytics on AWS” (coursework)
+## ⚙️ How I approach AI
+
+I work through a practical loop: define the problem, inspect the data, establish a baseline, evaluate results and trade-offs, then make the solution usable.
+
+<p align="center"><img src="./assets/ai-build-loop.gif" width="100%" alt="Animated AI engineering workflow: frame a problem, inspect data, build a model, evaluate it, and deliver a useful result" /></p>
 
 ## 📊 GitHub activity
 
@@ -98,12 +88,12 @@ I like a clear engineering loop: frame the question, inspect the data, establish
 
 ## ✨ Engineering principles
 
-<p align="center"><img src="./assets/engineering-principles.gif" width="100%" alt="Animated principles: understand data before assumptions, use evidence before claims, and make outcomes useful" /></p>
+<p align="center"><img src="./assets/engineering-principles.gif" width="100%" alt="Animated AI engineering principles: understand data before assumptions, use evidence before claims, and make outcomes useful" /></p>
 
-I value sound baselines, honest evaluation, and clear communication. A model is only one part of a useful system.
+Sound baselines, honest evaluation, and clear communication make AI systems more useful.
 
 ## 🤝 Connect
 
-Interested in AI, data products, or practical engineering? [Connect on LinkedIn](https://www.linkedin.com/in/rajkumarkannaujiya) · [Email me](mailto:rajkumar.kannojiaa@gmail.com) · [Explore my repositories](https://github.com/RajkumarKannaujiya?tab=repositories)
+Interested in AI, machine learning, or data products? [Connect on LinkedIn](https://www.linkedin.com/in/rajkumarkannaujiya) · [Email me](mailto:rajkumar.kannojiaa@gmail.com) · [Explore my repositories](https://github.com/RajkumarKannaujiya?tab=repositories)
 
-<p align="center"><img src="./assets/neon-signal-footer.gif" width="100%" alt="Animated sign-off: questions to experiments to intelligent systems" /></p>
+<p align="center"><img src="./assets/neon-signal-footer.gif" width="100%" alt="Animated sign-off: ideas to experiments to intelligent systems" /></p>
