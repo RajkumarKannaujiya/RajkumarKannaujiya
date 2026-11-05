@@ -1,54 +1,52 @@
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/fathom-hero-dark.svg">
-  <img alt="Rajkumar Kannaujiya: AI &amp; Data Science Student at IIT Madras | Applied AI. Cinematic title card: the camera descends onto a reef grown from the last 52 weeks of contributions, fish named after featured repositories swim past, and a depth gauge settles at 124 metres, the sunlit zone." src="./assets/fathom-hero-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-hero-dark.svg">
+  <img alt="Rajkumar Kannaujiya: Data Science &amp; Applied AI. An arcade maze built from the last year of contributions, one pellet per day and bigger on busier days, with the name in neon over it. A demo game plays: the chomper eats its way to a power pellet (one of the busiest days) and then eats the ghosts, which are the featured repositories. 128 contributions on 18 active days; best day 36; longest streak 3 days." src="./assets/pacman-hero-light.svg" width="100%">
 </picture>
 </p>
 
-<p align="center"><b>Rajkumar Kannaujiya</b> · AI &amp; Data Science Student at IIT Madras | Applied AI</p>
-<p align="center"><a href="mailto:rajkumr.kannojiaa@gmail.com"><img src="./assets/links/email.svg" alt="rajkumr.kannojiaa@gmail.com" height="28"></a></p>
+<p align="center"><b>Rajkumar Kannaujiya</b> · IIT Madras Student · Data Science &amp; Applied AI</p>
+<p align="center"><a href="mailto:rajkumar.kannojiaa@gmail.com">rajkumar.kannojiaa@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/rajkumarkannaujiya">LinkedIn</a></p>
 
-**On the surface.** I’m pursuing the B.S. in Data Science and Applications at IIT Madras, building a strong foundation in statistics, machine learning, and data science. I use Python, scikit-learn, PyTorch, and generative AI tools to turn experiments into useful, responsible applications.
+**Player 1.** I’m pursuing the B.S. in Data Science and Applications at IIT Madras, building a strong foundation in statistics, machine learning, and data science. I use Python, scikit-learn, PyTorch, and generative AI tools to turn experiments into useful, responsible applications.
 
-**Currently diving into:** Exploring LLM applications, practical AI workflows, and model evaluation through hands-on Python projects.
+**Now playing:** Exploring LLM applications, practical AI workflows, and model evaluation through hands-on Python projects.
 
-#### Dive log
+#### Scoreboard
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/fathom-log-dark.svg">
-  <img alt="The last 365 days as a dive: 124 metres down at one metre per contribution, reaching the sunlit zone. 16 active days, longest streak 3 days, longest break 254 days, 0 followers, 1 stars, 6 years on GitHub. Languages: TypeScript 33%, JavaScript 27%, HTML 22%, Python 7%, CSS 5%." src="./assets/fathom-log-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-score-dark.svg">
+  <img alt="Scoreboard. Meet the ghosts, one per featured project: northstar-job-agent, disease-prediction-ml. High scores: 128 contributions, 18 active days, a 3-day streak, 36 on the best day (October 17), 1 star, 0 followers, 6 years on GitHub. Bonus items, the languages: Python 100%." src="./assets/pacman-score-light.svg" width="100%">
 </picture>
 </p>
 
 <details>
-<summary><sub>Reading the dive log</sub></summary>
+<summary><sub>How to read the board</sub></summary>
 
-- **Depth:** one metre per contribution in the last 12 months. 124 m puts you in the sunlit zone. The zones are the ocean’s real ones: sunlit to 200 m, twilight to 1,000 m, midnight to 4,000 m, abyssal to 6,000 m and hadal below that, down to the Challenger Deep at 10,935 m.
-- **The descent:** your year as one dive, left to right. The line drops as contributions add up and runs flat through breaks. Each bubble is an active day; bigger bubbles are busier days.
-- **Logbook:** bottom time is active days, longest dive is the longest streak, safety stop is the longest break, visibility is followers, treasure is stars, and time in the water is years on GitHub.
-- **Species spotted:** language share by bytes across public repositories. The Latin is made up.
-- **On sonar:** featured repositories. The nearer the centre, the more stars.
-- **The opening shot:** the reef is the last 52 weeks, one coral per week. Taller corals are busier weeks, and each glowing polyp is one active day. The fish are featured repositories, sized by stars.
+- **The maze is your year:** one column per week of the last 12 months and one row per weekday (Sunday on top), like the contribution calendar. Every day is a pellet, bigger and brighter on busier days; a faint dot is a day off.
+- **Power pellets** are your busiest days. In the demo, the chomper eats its way to one of them and powers up.
+- **The ghosts** are your featured repos, one each. Once it's powered up, the chomper eats them, and each one pops its stars before floating home to the pen.
+- **The walls** are generated from your username and mirrored like an arcade board, so every board is different. The tunnel on Wednesdays wraps around.
+- **HUD:** the score is your contributions over the year, alongside your best day, your longest streak, and your level: years on GitHub.
+- **High scores** are your numbers, ranked the way an arcade ranks them. **Bonus items** are your languages by share of code.
 
-<sub>Artwork: original animated SVG, generated by README Templates · template: Fathom. Motion stops if your system asks for reduced motion.</sub>
+<sub>Artwork: original animated SVG, generated by README Templates · template: Pacman. Motion stops if your system asks for reduced motion.</sub>
 
 </details>
 
-#### Sightings
+#### The ghosts
 
-- **[northstar-job-agent](https://github.com/RajkumarKannaujiya/northstar-job-agent)** · Northstar job discovery and application tracking dashboard  
+- **[northstar-job-agent](https://github.com/RajkumarKannaujiya/northstar-job-agent)** · AI job-search assistant for discovery, resume matching, and application tracking.  
   <sub>Python</sub>
-- **[laundry-shop-website](https://github.com/RajkumarKannaujiya/laundry-shop-website)**  
-  <sub>HTML</sub>
-- **[buildflow-bill-manager](https://github.com/RajkumarKannaujiya/buildflow-bill-manager)** · Construction bill management and approval system  
-  <sub>TypeScript</sub>
-- **[disease-prediction-ml](https://github.com/RajkumarKannaujiya/disease-prediction-ml)** · Academic machine-learning demo for multi-disease classification using four public benchmark datasets.  
+- **[disease-prediction-ml](https://github.com/RajkumarKannaujiya/disease-prediction-ml)** · Academic ML demo with public benchmark datasets; educational, not a diagnostic tool.  
   <sub>Python</sub>
+
+**Power-ups:** Python
 
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="./assets/fathom-end-dark.svg">
-  <img alt="Back at the surface beside a diver-down buoy and a message in a bottle. Thanks for diving in. The water’s fine. Come say hi." src="./assets/fathom-end-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="./assets/pacman-end-dark.svg">
+  <img alt="End card: an arcade intermission, a ghost chasing the chomper across the screen and a giant chomper chasing it back. Then the sign-off: Let’s build thoughtful AI. Game on!" src="./assets/pacman-end-light.svg" width="100%">
 </picture>
 </p>
