@@ -23,12 +23,12 @@
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,sklearn,ai,git,github&amp;theme=dark&amp;perline=6">
-    <img alt="Technology icons for Python, PyTorch, scikit-learn, AI, Git, and GitHub" src="https://skillicons.dev/icons?i=py,pytorch,sklearn,ai,git,github&amp;theme=light&amp;perline=6">
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,sklearn,ai,ts,nextjs,postgres,git,github&amp;theme=dark&amp;perline=9">
+    <img alt="Technology icons for Python, PyTorch, scikit-learn, AI, TypeScript, Next.js, PostgreSQL, Git, and GitHub" src="https://skillicons.dev/icons?i=py,pytorch,sklearn,ai,ts,nextjs,postgres,git,github&amp;theme=light&amp;perline=9">
   </picture>
 </p>
 
-<p align="center"><sub>Python · PyTorch · scikit-learn · Applied AI · Git · GitHub</sub></p>
+<p align="center"><sub>AI &amp; ML: Python · PyTorch · scikit-learn · Generative AI &nbsp;·&nbsp; Product systems: TypeScript · Next.js · PostgreSQL · Git</sub></p>
 
 #### Scoreboard
 
@@ -53,6 +53,10 @@
 
 </details>
 
+#### Contribution trail
+
+<p align="center"><img alt="Animated contribution graph snake, refreshed by the profile repository's GitHub Actions workflow." src="https://raw.githubusercontent.com/RajkumarKannaujiya/RajkumarKannaujiya/output/github-contribution-grid-snake.gif" width="100%"></p>
+
 #### GitHub analytics
 
 <p align="center">
@@ -76,6 +80,21 @@
   <sub>Python</sub>
 
 **Power-ups:** Python
+
+#### Selected builds
+
+<p align="center"><img alt="Animated project atlas: Northstar for AI job discovery, Disease ML for model evaluation, and BuildFlow for secure bill workflows." src="./assets/project-atlas.gif" width="100%"></p>
+
+<details>
+<summary><sub>Project notes: methods, stacks, and safeguards</sub></summary>
+
+| Build | What it demonstrates | Technical notes |
+| --- | --- | --- |
+| [Northstar](https://github.com/RajkumarKannaujiya/northstar-job-agent) | Resume matching, public job discovery, deduplication, and application tracking. | Matching runs locally; users review actions, and the system does not submit applications automatically. Python, PostgreSQL, Redis/Celery, Docker. |
+| [Disease Prediction ML](https://github.com/RajkumarKannaujiya/disease-prediction-ml) | Six model candidates across four public benchmark datasets. | Five-fold grouped cross-validation plus a held-out evaluation; SHAP explains model outputs. Academic demo only, not clinically validated. Python, scikit-learn, XGBoost, Flask. |
+| [BuildFlow Bill Manager](https://github.com/RajkumarKannaujiya/buildflow-bill-manager) | A full-stack construction bill review and payment workflow. | Role-based approvals, append-only audit history, duplicate-payment checks, and row-locked atomic payment. Next.js, TypeScript, PostgreSQL. |
+
+</details>
 
 #### How I build
 
