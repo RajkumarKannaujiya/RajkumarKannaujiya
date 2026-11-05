@@ -66,7 +66,7 @@
   </picture>
 </p>
 
-<p align="center"><sub>Cards refresh daily from public GitHub data. The profile-view badge counts image-based requests and is not a unique-visitor count.</sub></p>
+<p align="center"><sub>Cards refresh daily from public GitHub data. The language card covers all public repositories; the Pacman board summarizes the featured projects. The profile-view badge counts image-based requests, not unique visitors.</sub></p>
 
 #### The ghosts
 
