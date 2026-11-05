@@ -1,0 +1,69 @@
+name: Update README analytics cards
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - README.md
+      - .github/workflows/update-profile-stats.yml
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  update-cards:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Check out profile repository
+        uses: actions/checkout@v7
+
+      - name: Generate dark GitHub stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&bg_color=0B1020&title_color=00D9F5&icon_color=F72585&text_color=C9D4F0&border_color=263149
+          path: profile/stats-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate light GitHub stats card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: stats
+          options: username=${{ github.repository_owner }}&show_icons=true&include_all_commits=true&bg_color=FFFFFF&title_color=0969DA&icon_color=BF3989&text_color=24292F&border_color=D0D7DE
+          path: profile/stats-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate dark language card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&bg_color=0B1020&title_color=00D9F5&text_color=C9D4F0&border_color=263149
+          path: profile/top-langs-dark.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Generate light language card
+        uses: stats-organization/github-readme-stats-action@v2
+        with:
+          card: top-langs
+          options: username=${{ github.repository_owner }}&layout=compact&langs_count=6&bg_color=FFFFFF&title_color=0969DA&text_color=24292F&border_color=D0D7DE
+          path: profile/top-langs-light.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fail_on_error: true
+
+      - name: Commit refreshed cards
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add profile/stats-dark.svg profile/stats-light.svg profile/top-langs-dark.svg profile/top-langs-light.svg
+          if git diff --cached --quiet; then
+            echo "Analytics cards are already current."
+            exit 0
+          fi
+          git commit -m "Refresh README analytics cards"
+          git push

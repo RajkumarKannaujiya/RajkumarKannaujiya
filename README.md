@@ -6,11 +6,29 @@
 </p>
 
 <p align="center"><b>Rajkumar Kannaujiya</b> · IIT Madras Student · Data Science &amp; Applied AI</p>
-<p align="center"><a href="mailto:rajkumar.kannojiaa@gmail.com">rajkumar.kannojiaa@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/rajkumarkannaujiya">LinkedIn</a></p>
+<p align="center"><a href="mailto:rajkumar.kannojiaa@gmail.com">rajkumar.kannojiaa@gmail.com</a> &nbsp;·&nbsp; <a href="https://www.linkedin.com/in/rajkumarkannaujiya"><img alt="Connect on LinkedIn" src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white"></a></p>
+<p align="center"><img alt="GitHub profile views" src="https://komarev.com/ghpvc/?username=RajkumarKannaujiya&amp;label=PROFILE%20VIEWS&amp;color=00D9F5&amp;style=for-the-badge"></p>
 
 **Player 1.** I’m pursuing the B.S. in Data Science and Applications at IIT Madras, building a strong foundation in statistics, machine learning, and data science. I use Python, scikit-learn, PyTorch, and generative AI tools to turn experiments into useful, responsible applications.
 
 **Now playing:** Exploring LLM applications, practical AI workflows, and model evaluation through hands-on Python projects.
+
+#### From question to working system
+
+<p align="center"><img alt="Animated five-step AI workflow: frame the problem, inspect the data, build a baseline, evaluate honestly, and make the result usable." src="./assets/ai-build-loop.gif" width="100%"></p>
+
+<p align="center"><sub>Problem framing → data inspection → baseline → honest evaluation → useful delivery.</sub></p>
+
+#### AI toolkit
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,pytorch,sklearn,ai,git,github&amp;theme=dark&amp;perline=6">
+    <img alt="Technology icons for Python, PyTorch, scikit-learn, AI, Git, and GitHub" src="https://skillicons.dev/icons?i=py,pytorch,sklearn,ai,git,github&amp;theme=light&amp;perline=6">
+  </picture>
+</p>
+
+<p align="center"><sub>Python · PyTorch · scikit-learn · Applied AI · Git · GitHub</sub></p>
 
 #### Scoreboard
 
@@ -35,6 +53,21 @@
 
 </details>
 
+#### GitHub analytics
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/stats-dark.svg">
+    <img alt="GitHub statistics including commits, pull requests, stars, and contributions" src="./profile/stats-light.svg" width="49%">
+  </picture>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./profile/top-langs-dark.svg">
+    <img alt="Top programming languages used in public repositories" src="./profile/top-langs-light.svg" width="49%">
+  </picture>
+</p>
+
+<p align="center"><sub>Cards refresh daily from public GitHub data. The profile-view badge counts image-based requests and is not a unique-visitor count.</sub></p>
+
 #### The ghosts
 
 - **[northstar-job-agent](https://github.com/RajkumarKannaujiya/northstar-job-agent)** · AI job-search assistant for discovery, resume matching, and application tracking.  
@@ -43,6 +76,10 @@
   <sub>Python</sub>
 
 **Power-ups:** Python
+
+#### How I build
+
+<p align="center"><img alt="Animated engineering principles: data before assumptions, evidence before claims, and usefulness before hype." src="./assets/engineering-principles.gif" width="100%"></p>
 
 <p align="center">
 <picture>
