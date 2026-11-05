@@ -1,12 +1,16 @@
 <p align="center">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="./assets/fathom-hero-dark.svg">
-  <img alt="Rajkumar Kannaujiya: Web Developer | Web Designer | Full Stack Web Developer |. Cinematic title card: the camera descends onto a reef grown from the last 52 weeks of contributions, fish named after featured repositories swim past, and a depth gauge settles at 124 metres, the sunlit zone." src="./assets/fathom-hero-light.svg" width="100%">
+  <img alt="Rajkumar Kannaujiya: AI &amp; Data Science Student at IIT Madras | Applied AI. Cinematic title card: the camera descends onto a reef grown from the last 52 weeks of contributions, fish named after featured repositories swim past, and a depth gauge settles at 124 metres, the sunlit zone." src="./assets/fathom-hero-light.svg" width="100%">
 </picture>
 </p>
 
-<p align="center"><b>Rajkumar Kannaujiya</b> · Web Developer | Web Designer | Full Stack Web Developer |</p>
+<p align="center"><b>Rajkumar Kannaujiya</b> · AI &amp; Data Science Student at IIT Madras | Applied AI</p>
+<p align="center"><a href="mailto:rajkumr.kannojiaa@gmail.com"><img src="./assets/links/email.svg" alt="rajkumr.kannojiaa@gmail.com" height="28"></a></p>
 
+**On the surface.** I’m pursuing the B.S. in Data Science and Applications at IIT Madras, building a strong foundation in statistics, machine learning, and data science. I use Python, scikit-learn, PyTorch, and generative AI tools to turn experiments into useful, responsible applications.
+
+**Currently diving into:** Exploring LLM applications, practical AI workflows, and model evaluation through hands-on Python projects.
 
 #### Dive log
 
@@ -33,14 +37,14 @@
 
 #### Sightings
 
-- **[Fruit-store-website](https://github.com/RajkumarKannaujiya/Fruit-store-website)**  
-  <sub>HTML · ★ 1</sub>
 - **[northstar-job-agent](https://github.com/RajkumarKannaujiya/northstar-job-agent)** · Northstar job discovery and application tracking dashboard  
   <sub>Python</sub>
 - **[laundry-shop-website](https://github.com/RajkumarKannaujiya/laundry-shop-website)**  
   <sub>HTML</sub>
 - **[buildflow-bill-manager](https://github.com/RajkumarKannaujiya/buildflow-bill-manager)** · Construction bill management and approval system  
   <sub>TypeScript</sub>
+- **[disease-prediction-ml](https://github.com/RajkumarKannaujiya/disease-prediction-ml)** · Academic machine-learning demo for multi-disease classification using four public benchmark datasets.  
+  <sub>Python</sub>
 
 <p align="center">
 <picture>
